@@ -32,7 +32,7 @@ const items = [
   },
 ];
 
-class DoubleSelect extends Component {
+export default class DoubleSelect extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -106,5 +106,3 @@ class DoubleSelect extends Component {
     );
   }
 }
-
-export default DoubleSelect;
