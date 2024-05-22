@@ -1,0 +1,8 @@
+.selected_content h1 {
+  text-align: center;
+}
+
+.double_select {
+  display: flex;
+  justify-content: space-evenly;
+}
